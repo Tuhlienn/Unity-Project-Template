@@ -5,7 +5,7 @@ A Unity Template with all you need to jumpstart your projects. (Especially usefu
 ## Prerequisits
 1. Git (https://git-scm.com/downloads)
 2. LFS (https://git-lfs.github.com/)
-3. Untiy Hub (https://unity3d.com/de/get-unity/download)
+3. Unity Hub (https://unity3d.com/de/get-unity/download)
 4. A Unity Version >= 2019.2.8f1 
 
 ## Using this Repo
