@@ -32,3 +32,20 @@ git lfs install
 > If Unity indicates that the project was created with an older version of Unity just continue
 
 ## Workflow
+### Working on a feature
+1. Make sure to have your local repo clean (```git status```)
+2. Check for remote changes (```git fetch```)
+3. Get the newest version (```git pull```)
+4. Create a new branch for your feature (```git checkout -b feature/<featureName>```)
+5. Start working on the feature
+6. Work on something to advance towards the goals of the feature
+7. Whenever you have accomplished something individually complete, commit your changes (```git commit -m "<message>"```)
+8. Repeat steps 6 and 7 until you completed the feature
+9. Push your feature to the repo (```git push --set-upstream origin feature/<featureName>```) 
+10. Apply your feature to the project
+  a. Go to Github and select your branch feature/<featureName>
+
+### Universal Tipps
+- Always create a new Unity Scene to create Prefabs and other Assets
+- Always open Unity after adding Assets to the project outside the Editor (This allows Unity to import them correctly)
+- Always make sure that there is a meta file for each newly added asset
