@@ -43,7 +43,7 @@ git lfs install
 8. Repeat steps 6 and 7 until you completed the feature
 9. Push your feature to the repo (```git push --set-upstream origin feature/<featureName>```) 
 10. Apply your feature to the project
-  a. Go to Github and select your branch feature/<featureName>
+  a. Go to Github and select your branch "feature/<featureName>"
 
 ### Universal Tipps
 - Always create a new Unity Scene to create Prefabs and other Assets
