@@ -2,6 +2,15 @@
 A Unity Template with all you need to jumpstart your projects. (Especially useful for GameJams)
 > This Template was created with 2019.2.8f1
 
+## Table of Contents
+1. [Prerequisits](#prerequisits)
+2. [Using this Repo](#using-this-repo)
+3. [Git Workflow](#git-workflow)
+4. [Universal Tipps for Unity](#universal-tipps-for-unity)
+4. [Using Git LFS](#using-git-lfs)
+
+---
+
 ## Prerequisits
 1. Git (https://git-scm.com/downloads)
 3. Unity Hub (https://unity3d.com/de/get-unity/download)
@@ -52,7 +61,9 @@ git clone <Your link>
 - Always open Unity after adding Assets to the project outside the Editor (This allows Unity to import them correctly)
 - Always make sure that there is a meta file for each newly added asset
 
-## Using Git [LFS](https://git-lfs.github.com/)
+## Using Git LFS
+Install Git LFS (https://git-lfs.github.com/)
+
 ```
 git lfs install
 ```
