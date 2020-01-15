@@ -1,23 +1,23 @@
 # Unity Project Template
-A Unity Template with all you need to jumpstart your projects. (Especially useful for GameJams)
-> This Template was created with 2019.2.8f1
+Unity Template mit allem was für einen Schnellen Start in neue Projekte benötigt wird. (Besonders nützlich für GameJams)
+> Dieses Template wurde mit Version 2019.2.8f1 erstellt
 
-## Table of Contents
-1. [Prerequisits](#prerequisits)
-2. [Using this Repo](#using-this-repo)
+## Inhalt
+1. [Voraussetzungen](#voraussetzungen)
+2. [Dieses Repo verwenden](#dieses-repo-verwenden)
 3. [Git Workflow](#git-workflow)
-4. [Universal Tipps for Unity](#universal-tipps-for-unity)
-4. [Using Git LFS](#using-git-lfs)
+4. [Universelle Tipps für Unity](#universelle-tipps-für-unity)
+4. [Git LFS verwenden](#git-lfs-verwenden)
 
 ---
 
-## Prerequisits
+## Voraussetzungen
 1. Git (https://git-scm.com/downloads)
 3. Unity Hub (https://unity3d.com/de/get-unity/download)
-4. A Unity Version >= 2019.2.8f1 
+4. Eine Unity Version >= 2019.2.8f1 
 
-## Using this Repo
-### Cloning a local Version
+## Dieses Repo verwenden
+### Lokale Version klonen
 1. Click on "Use this template" to create a new Repo
 2. After you created the repository navigate to a place where you want your project folder to be
 3. Right click and select "git bash here"
@@ -28,7 +28,7 @@ git clone <Your link>
 ```
 6. Now you have your local Version of the repo all setup
 
-### Opening the Project in Unity
+### Projekt in Unity öffnen
 1. Open Unity Hub
 2. If you haven't already install a Unity Version >= 2019.2.8f1
 3. Switch to the "Projects"-Tab and select "Add"
@@ -56,12 +56,12 @@ git clone <Your link>
     7. Delete your branch **feature/\<featureName\>**
 11. You're ready to start a new feature
 
-## Universal Tipps for Unity
+## Universelle Tipps für Unity
 - Always create a new Unity Scene to create Prefabs and other Assets
 - Always open Unity after adding Assets to the project outside the Editor (This allows Unity to import them correctly)
 - Always make sure that there is a meta file for each newly added asset
 
-## Using Git LFS
+## Git LFS verwenden
 Install Git LFS (https://git-lfs.github.com/)
 
 ```
