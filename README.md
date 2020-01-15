@@ -18,23 +18,23 @@ Unity Template mit allem was für einen Schnellen Start in neue Projekte benöti
 
 ## Dieses Repo verwenden
 ### Lokale Version klonen
-1. Click on "Use this template" to create a new Repo
-2. After you created the repository navigate to a place where you want your project folder to be
-3. Right click and select "git bash here"
-4. In your repository click on "Clone or Download" and copy the shown link
-5. Type following inside the Git Bash (You can paste your link via "Shift + Einf"
+1. Klicke auf "Use this template", um ein neues Repository mit dieser Basis zu erstellen
+2. Nachdem das Repository erstellt wurde, navigiere zu einem Ordner in dem sich das Projekt lokal befinden soll
+3. Rechts click -> "git bash here"
+4. Klicke im Repository "Clone or Download" und kopiere den angezeigten Link
+5. Führe folgende Befehle in der Git Bash aus (Du kannst den Link mit "Shift + Einf" einfügen)
 ```
 git clone <Your link>
 ```
-6. Now you have your local Version of the repo all setup
+6. Nun hast du eine lokale Version des Repositorys
 
 ### Projekt in Unity öffnen
-1. Open Unity Hub
-2. If you haven't already install a Unity Version >= 2019.2.8f1
-3. Switch to the "Projects"-Tab and select "Add"
-4. Navigate to your repository folder and select the inner folder
-5. Click on the Project to open it
-> If Unity indicates that the project was created with an older version of Unity just continue
+1. Öffne Unity Hub
+2. Wenn du noch keine hast, installiere eine Unity Version >= 2019.2.8f1
+3. Wechsle zum Tab "Projects" und wähle "Add"
+4. Navigiere zu deinem Repository-Ordner und wähle den inneren Ordner aus
+5. Zurück in der Übersicht deiner Projekte in Unity Hub wähle das Projekt um es zu öffnen
+> Falls Unity anmerkt, dass das Projekt mit einer älteren Version erstellt wurde, kannst du einfach fortfahren
 
 ## Git Workflow
 1. Make sure to have your local repo clean (```git status```)
