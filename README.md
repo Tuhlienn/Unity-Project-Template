@@ -4,7 +4,6 @@ A Unity Template with all you need to jumpstart your projects. (Especially usefu
 
 ## Prerequisits
 1. Git (https://git-scm.com/downloads)
-2. LFS (https://git-lfs.github.com/)
 3. Unity Hub (https://unity3d.com/de/get-unity/download)
 4. A Unity Version >= 2019.2.8f1 
 
@@ -17,9 +16,6 @@ A Unity Template with all you need to jumpstart your projects. (Especially usefu
 5. Type following inside the Git Bash (You can paste your link via "Shift + Einf"
 ```
 git clone <Your link>
-```
-```
-git lfs install
 ```
 6. Now you have your local Version of the repo all setup
 
@@ -55,3 +51,8 @@ git lfs install
 - Always create a new Unity Scene to create Prefabs and other Assets
 - Always open Unity after adding Assets to the project outside the Editor (This allows Unity to import them correctly)
 - Always make sure that there is a meta file for each newly added asset
+
+## Using Git [LFS](https://git-lfs.github.com/)
+```
+git lfs install
+```
